@@ -14,7 +14,7 @@ $REQUIRED_WORLD = "valhalla";
 // (Margonem blokuje IP Discorda, więc nie działa bezpośrednio z cdn!)
 // Należy ustawić na "<adres serwera na którym działa serwer>/obrazki"
 // (MUSI się kończyć znakiem /)
-$NPC_ICON_PATH = "https://priw8.com/margo/grzyby/obrazki/";
+$NPC_ICON_PATH = "https://github.com/KlusekTHC/grzyb/obrazki/";
 
 // Rola do powiadomienia w webhooku (trzeba skopiować ID roli i zamienić numerki niżej)
 $PING = "<@1292475270598754386>";
